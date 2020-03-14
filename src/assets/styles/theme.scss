@@ -1,0 +1,9 @@
+// Config
+@import "config/variables";
+@import "config/fonts";
+@import "config/vendor";
+
+// Common
+body {
+  font-family: $font-family-sans-serif;
+}
